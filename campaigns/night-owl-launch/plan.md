@@ -110,21 +110,23 @@ Why it fits: these people already opted in to offer texts, everyone has a phone,
 
 Week 0 is set-up, before the launch.
 
-| Week | Dates | What | Who gets it | Notes | Status |
-|---|---|---|---|---|---|
-| 0 | 16 Nov to 4 Dec | Get the missing facts (price, data, length, rules) | n/a | Blocks every text below. | To do |
-| 0 | 16 Nov to 27 Nov | Write and approve all texts | n/a | Check each one against `brand/voice.md`. | To do |
-| 0 | 16 Nov to 27 Nov | Tag every subscriber as student, gamer or budget-caller | n/a | Anyone without a tag gets the general text. | To do |
-| 0 | 30 Nov to 4 Dec | Set up OWL, HELP and STOP replies; build the 9 am to 9 pm block | n/a | Test end to end on the practice server. | To do |
-| 0 | 30 Nov to 4 Dec | Pick a holdout group of 1,000 people who get no texts | n/a | So we can tell how many sign-ups the texts caused. Optional. | To do |
-| 1 | Mon 7 Dec | **Launch test**: two versions of the launch text, 1,000 people each | 2,000 | Pick the winner by reply rate on Tuesday. | To do |
-| 1 | Tue 8 to Wed 9 Dec | **Launch text** (winner, one version per group) | Everyone else | Split over two days to spread the load on support. | To do |
-| 1 | Ongoing | **"Done" text** after each OWL reply | Buyers | Held until 9 am if they reply at night. | To do |
-| 2 | Tue 15 Dec | **How it works** text, one per group | Non-buyers | Answers "what do I get and how?" | To do |
-| 2 | Fri 18 Dec | Week 2 check-in: numbers so far | Team | Decide if week 3 needs a change. | To do |
-| 3 | Tue 22 Dec | **Holiday downloads** text | Non-buyers | Sent before Christmas Eve. No texts on 24 or 25 Dec. | To do |
-| 4 | Tue 29 Dec | **Still here** reminder | Non-buyers who have not replied to anything | Honest, no deadline. No texts on 31 Dec or 1 Jan. | To do |
-| 4 | Mon 4 Jan | Final count and short report | Team | Save results in this folder. | To do |
+| Week | Dates | Send time | What | Who gets it | Notes | Status |
+|---|---|---|---|---|---|---|
+| 0 | 16 Nov to 4 Dec | n/a | Get the missing facts (price, data, length, rules) | n/a | Blocks every text below. | To do |
+| 0 | 16 Nov to 27 Nov | n/a | Write and approve all texts | n/a | Check each one against `brand/voice.md`. | To do |
+| 0 | 16 Nov to 27 Nov | n/a | Tag every subscriber as student, gamer or budget-caller | n/a | Anyone without a tag gets the general text. | To do |
+| 0 | 30 Nov to 4 Dec | n/a | Set up OWL, HELP and STOP replies; build the 9 am to 9 pm block | n/a | Test end to end on the practice server. | To do |
+| 0 | 30 Nov to 4 Dec | n/a | Pick a holdout group of 1,000 people who get no texts | n/a | So we can tell how many sign-ups the texts caused. Optional. | To do |
+| 1 | Mon 7 Dec | 4 pm to 6 pm, one time for everyone in the test | **Launch test**: two versions of the launch text, 1,000 people each | 2,000, mixed groups (random split) | Same time for both versions so the test is fair. Pick the winner by reply rate on Tuesday. | To do |
+| 1 | Tue 8 to Wed 9 Dec | Group time (see section 4) | **Launch text** (winner, one version per group) | Everyone else | Split over two days to spread the load on support. | To do |
+| 1 | Ongoing | Straight away from 9 am to 9 pm; held until 9 am if they reply at night | **"Done" text** after each OWL reply | Buyers | Held until 9 am if they reply at night. Waiting on the night-reply decision in section 10. | To do |
+| 2 | Tue 15 Dec | Group time (see section 4) | **How it works** text, one per group | Non-buyers | Answers "what do I get and how?" | To do |
+| 2 | Fri 18 Dec | n/a (team meeting) | Week 2 check-in: numbers so far | Team | Decide if week 3 needs a change. | To do |
+| 3 | Tue 22 Dec | Group time (see section 4) | **Holiday downloads** text | Non-buyers | Sent before Christmas Eve. No texts on 24 or 25 Dec. | To do |
+| 4 | Tue 29 Dec | Group time (see section 4) | **Still here** reminder | Non-buyers who have not replied to anything | Honest, no deadline. No texts on 31 Dec or 1 Jan. | To do |
+| 4 | Mon 4 Jan | n/a | Final count and short report | Team | Save results in this folder. | To do |
+
+**Group time** means the best time for that group in section 4. Anyone without a tag gets the budget-caller time (10 am to 12 pm). All sends stay inside 9 am to 9 pm and start by 8:30 pm.
 
 **Order that matters:**
 1. Price and data amount must be confirmed before any text is final.
