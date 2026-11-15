@@ -13,6 +13,29 @@ const FROM = process.env.TWILIO_FROM || "";
 const PRACTICE =
   BASE.startsWith("http://127.0.0.1") || BASE.startsWith("http://localhost");
 
+// Guard: outside practice mode, only two numbers may receive a text:
+// Twilio's test number and the owner's own phone (MY_PHONE).
+const TEST_NUMBER = "+15005550006";
+const normalize = (n) => String(n).replace(/[\s().-]/g, "");
+const MY_PHONE = normalize(process.env.MY_PHONE || "");
+const MY_PHONE_OK = /^\+[1-9]\d{7,14}$/.test(MY_PHONE);
+const ALLOWED = new Set([TEST_NUMBER, ...(MY_PHONE_OK ? [MY_PHONE] : [])]);
+
+function checkAllowed(to) {
+  if (PRACTICE) return; // practice server: nothing reaches a real phone
+  if (BASE !== "https://api.twilio.com") {
+    throw new TwilioError(
+      `Blocked: TWILIO_BASE_URL must be the practice server or https://api.twilio.com (got ${BASE || "nothing"}).`
+    );
+  }
+  if (!ALLOWED.has(normalize(to))) {
+    throw new TwilioError(
+      `Blocked: ${to} is not allowed. Real sends go only to ${TEST_NUMBER}` +
+        (MY_PHONE_OK ? " and your own number (MY_PHONE)." : `. MY_PHONE is ${MY_PHONE ? "not a valid +number" : "not set"}.`)
+    );
+  }
+}
+
 const AUTH = "Basic " + Buffer.from(`${SID}:${TOKEN}`).toString("base64");
 const MESSAGES_URL = `${BASE}/2010-04-01/Accounts/${SID}/Messages.json`;
 
@@ -63,9 +86,10 @@ async function simulateDelivered(sid) {
 }
 
 async function sendOne(to, body) {
+  checkAllowed(to);
   const sent = await twilio(MESSAGES_URL, {
     method: "POST",
-    form: { To: to, From: FROM, Body: body },
+    form: { To: normalize(to), From: FROM, Body: body },
   });
   await simulateDelivered(sent.sid);
   // Re-read so the status shown is the one after delivery.
