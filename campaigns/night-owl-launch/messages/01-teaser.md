@@ -1,0 +1,15 @@
+# Teaser
+
+**Date:** Thu 3 Dec 2026
+**Send time:** Students 4 pm; gamers 6 pm; budget-callers 10 am (and untagged at 10 am). All sends stay inside 9 am to 9 pm local time and start by 8:30 pm.
+**Audience:** All opted-in subscribers (students, gamers, budget-callers, untagged), except people who already added the bundle or replied STOP.
+**Purpose:** Get people curious. Say something new is coming and when.
+**Status:** Draft. Not final until price and data amount are confirmed.
+
+## Message
+
+```
+Chirpnet: Up late? Something new for night owls starts 7 Dec. Cheap data from midnight to 7 am. Watch this space. Reply STOP to opt out.
+```
+
+**Length:** 136 characters with the placeholders `[X GB]` and `[price]`. Recount once real values are in (limit 160).
