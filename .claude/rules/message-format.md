@@ -13,3 +13,4 @@ Every message file in a campaign's `messages/` folder must pass these checks. Me
 4. **End.** The body ends with `Reply STOP to opt out`.
 5. **Characters.** No emoji, curly quotes or non-English script. Check every character.
 6. **Brand voice.** No word or claim that `brand/voice.md` says to avoid.
+7. **Placeholders.** While a message is a draft, count `[X GB]` and `[price]` as written and say so in the Length line. Before any send, no `[ ]` placeholder may be left. Fill in the real values and measure again.

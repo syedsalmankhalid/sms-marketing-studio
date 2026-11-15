@@ -10,7 +10,7 @@
 ## Message
 
 ```
-Chirpnet: Hi {{first_name}}, meet the Night Owl Bundle: [X GB] for [price], midnight to 7 am. Reply OWL to add. https://chirpnet.example/owl Reply STOP to opt out.
+Chirpnet: Hi {{first_name}}, get the Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL to add it. https://chirpnet.example/owl Reply STOP to opt out.
 ```
 
-**Length:** 159 characters, with `{{first_name}}` counted as 10 and the placeholders `[X GB]` and `[price]` as written. Recount once real values are in (limit 160).
+**Length:** 158 characters, with `{{first_name}}` counted as 10 and the placeholders `[X GB]` and `[price]` as written. Recount once real values are in (limit 160).
