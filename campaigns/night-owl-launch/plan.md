@@ -13,7 +13,7 @@ Written 2026-11-15. Status: draft, waiting for sign-off.
 | **Dates** | Monday 7 December 2026 to Sunday 3 January 2027 (4 weeks). |
 | **Channel** | SMS only. No paid ads. |
 | **Send window** | 9 am to 9 pm, subscriber's local time. Never at night. |
-| **Budget** | Not given. The only cost is SMS sending (about 75,000 texts, see section 8). |
+| **Budget** | Not given. The only cost is SMS sending (about 94,000 texts, see section 8). |
 
 ### Before we start: facts we still need
 
@@ -183,8 +183,8 @@ Text 8 needs a check: "Save your daytime data" is only true if bundle data is us
 
 No budget was given, and there are no paid ads. The only real cost is sending texts.
 
-- **Texts to send:** about 19,000 (week 1, which is 20,000 minus the 1,000 holdout) + 18,750 (week 2) + 18,550 (week 3) + 18,400 (week 4) = **about 74,700**, plus about 600 "Done" and HELP texts. Each week drops because buyers and opt-outs are taken off the list.
-- **Cost:** about 75,300 × our cost per text. Every draft is one SMS part (160 characters or fewer), so the cost stays at one part per text.
+- **Texts to send:** about 19,000 (teaser, 20,000 minus the 1,000 holdout) + 19,000 (week 1, same list) + 18,750 (week 2) + 18,550 (week 3) + 18,400 (week 4) = **about 93,700**, plus about 600 "Done" and HELP texts. Each week drops because buyers and opt-outs are taken off the list.
+- **Cost:** about 94,300 × our cost per text. Every draft is one SMS part (160 characters or fewer), so the cost stays at one part per text.
 - **Cost per activation:** total SMS cost ÷ activations. Track this to compare with future offers.
 - **Saving option:** if week 1 shows one group barely responds, send it fewer texts in weeks 3 and 4.
 - **Contingency:** keep 10% extra for resends and a possible extra test.
