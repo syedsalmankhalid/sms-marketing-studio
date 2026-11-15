@@ -86,7 +86,7 @@ Everyone in this campaign is a prepaid subscriber who opted in to offers. Nobody
 Why it fits: these people already opted in to offer texts, everyone has a phone, and replying OWL turns a text straight into a sale. No website or app is needed.
 
 **How we use it:**
-- **One text a week, at most**, per person. Four campaign texts in four weeks, in total.
+- **One text a week, at most**, per person. One teaser the week before launch, then four campaign texts in four weeks. Five texts in total.
 - **Only non-buyers get the next text.** Once someone adds the bundle, they stop getting sales texts and get a short "how to use it" text instead.
 - **STOP is final.** Anyone who replies STOP is removed at once and gets no more campaign texts.
 - **Each group gets its own text** where it helps (weeks 1 to 3).
