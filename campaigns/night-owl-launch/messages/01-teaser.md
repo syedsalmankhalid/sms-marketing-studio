@@ -10,7 +10,7 @@
 ## Message
 
 ```
-Chirpnet: Hi {{first_name}}, up late? Something new for night owls starts 7 Dec. Cheap data from midnight to 7 am. https://chirp.example/owl Reply STOP to opt out.
+Chirpnet: Hi {{first_name}}, up late? Something new for night owls starts 7 Dec. Cheap data, midnight to 7 am. https://chirpnet.example/owl Reply STOP to opt out.
 ```
 
-**Length:** 159 characters, with `{{first_name}}` counted as 10 and the placeholders `[X GB]` and `[price]` as written. Recount once real values are in (limit 160).
+**Length:** 158 characters, with `{{first_name}}` counted as 10 and the placeholders `[X GB]` and `[price]` as written. Recount once real values are in (limit 160).
