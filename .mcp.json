@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "sms": {
+      "command": "node",
+      "args": ["mcp/sms-server.mjs"],
+      "env": {
+        "TWILIO_ACCOUNT_SID": "${TWILIO_ACCOUNT_SID:-AC00000000000000000000000000000000}",
+        "TWILIO_AUTH_TOKEN": "${TWILIO_AUTH_TOKEN:-twilio_test_auth_token}",
+        "TWILIO_BASE_URL": "${TWILIO_BASE_URL:-http://127.0.0.1:4000}",
+        "TWILIO_FROM": "${TWILIO_FROM:-+15551234567}"
+      }
+    }
+  }
+}
