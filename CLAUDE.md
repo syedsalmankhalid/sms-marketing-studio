@@ -14,3 +14,7 @@ This studio is for planning and writing SMS campaigns for a small mobile network
 - Write in plain English. Use short sentences and everyday words, and avoid jargon.
 - Never send a text message to real people. Only send to the practice server at `http://127.0.0.1:4000`, never to the real Twilio API.
 - Ask me before deleting anything.
+
+## Brand voice
+
+@brand/voice.md
