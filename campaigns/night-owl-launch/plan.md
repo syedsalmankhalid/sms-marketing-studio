@@ -137,22 +137,22 @@ Week 0 is set-up, before the launch.
 
 ## 6. Content pieces needed
 
-All drafts below are 160 characters or fewer if `[X GB]` and `[price]` are each 5 characters or fewer (for example "10 GB" and "$2.99"). Recount once the real values are in.
+Characters are counted with `{{first_name}}` as 10 and `[X GB]` and `[price]` as written. Recount once the real values are in. Each draft must stay at 160 or fewer.
 
 | # | Text | Group | Week | Priority | Draft | Chars |
 |---|---|---|---|---|---|---|
 | 0 | Teaser | All | 0 | Must | Chirpnet: Hi {{first_name}}, up late? Something new for night owls starts 7 Dec. Cheap data, midnight to 7 am. https://chirpnet.example/owl Reply STOP to opt out. | 158 |
 | 1 | Launch, version A | All / no tag | 1 | Must | Chirpnet: Hi {{first_name}}, get the Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL to add it. https://chirpnet.example/owl Reply STOP to opt out. | 158 |
-| 2 | Launch, students | Students | 1 | Must | Chirpnet: Studying late? The Night Owl Bundle gives you [X GB] of data from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 146 |
-| 3 | Launch, gamers | Gamers | 1 | Must | Chirpnet: Big game update? Get it after midnight with the Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL to add it. Reply STOP to opt out. | 151 |
-| 4 | Launch, budget-callers | Budget-callers | 1 | Must | Chirpnet: Good value data for night owls. The Night Owl Bundle is [X GB] from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 148 |
+| 2 | Launch, students | Students | 1 | Must | Chirpnet: Hi {{first_name}}, studying late? Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 155 |
+| 3 | Launch, gamers | Gamers | 1 | Must | Chirpnet: Hi {{first_name}}, big game update? Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 157 |
+| 4 | Launch, budget-callers | Budget-callers | 1 | Must | Chirpnet: Hi {{first_name}}, good value data. Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 157 |
 | 5 | How it works | All | 2 | Must | Chirpnet: Hi {{first_name}}, reply OWL and we add the Night Owl Bundle. [X GB], midnight to 7 am only, [price]. https://chirpnet.example/owl Reply STOP to opt out. | 159 |
-| 6 | Week 2, students | Students | 2 | Nice | Chirpnet: Lectures to catch up on? Watch them from midnight to 7 am with the Night Owl Bundle, [X GB] for [price]. Reply OWL to add it. Reply STOP to opt out. | 155 |
-| 7 | Week 2, gamers | Gamers | 2 | Nice | Chirpnet: Got a big download waiting? The Night Owl Bundle gives you [X GB] from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 151 |
-| 8 | Week 2, budget-callers | Budget-callers | 2 | Nice | Chirpnet: Save your daytime data. Use the Night Owl Bundle for big downloads from midnight to 7 am, [price]. Reply OWL to add it. Reply STOP to opt out. | 150 |
-| 9 | Holiday downloads | All | 3 | Must | Chirpnet: New apps or games for the holidays? Get them from midnight to 7 am with the Night Owl Bundle, [price]. Reply OWL to add it. Reply STOP to opt out. | 155 |
+| 6 | Week 2, students | Students | 2 | Nice | Chirpnet: Hi {{first_name}}, lectures to watch? Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 159 |
+| 7 | Week 2, gamers | Gamers | 2 | Nice | Chirpnet: Hi {{first_name}}, downloads waiting? Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 159 |
+| 8 | Week 2, budget-callers | Budget-callers | 2 | Nice | Chirpnet: Hi {{first_name}}, save daytime data. Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 159 |
+| 9 | Holiday downloads | All | 3 | Must | Chirpnet: Hi {{first_name}}, new apps for the holidays? Night Owl Bundle: midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 159 |
 | 10 | Last day | All | 4 | Must | Chirpnet: Hi {{first_name}}, last text on the Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL. https://chirpnet.example/owl Reply STOP to opt out. | 157 |
-| 11 | "Done" confirmation | Buyers | 1 to 4 | Must | Chirpnet: Done. Your Night Owl Bundle is added. Use it from midnight to 7 am. Questions? Reply HELP. Reply STOP to opt out. | 123 |
+| 11 | "Done" confirmation | Buyers | 1 to 4 | Must | Chirpnet: Hi {{first_name}}, done. Your Night Owl Bundle is added. Use it midnight to 7 am. Reply HELP. https://chirpnet.example/owl Reply STOP to opt out. | 151 |
 | 12 | HELP reply | Anyone | 1 to 4 | Must | Short answer with price, hours, how long it lasts and how to get help. Write once the facts are in. | n/a |
 | 13 | Not enough credit | Anyone | 1 to 4 | Must | Tells them the bundle was not added and how to top up. Write once we know how OWL charges. | n/a |
 | 14 | Launch, version B | All | 1 | Must | A second launch text for the Monday test, for example leading with the price instead of "Up late?". | n/a |
