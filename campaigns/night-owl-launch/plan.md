@@ -123,7 +123,7 @@ Week 0 is set-up, before the launch.
 | 2 | Tue 15 Dec | Group time (see section 4) | **How it works** text, one per group | Non-buyers | Answers "what do I get and how?" | To do |
 | 2 | Fri 18 Dec | n/a (team meeting) | Week 2 check-in: numbers so far | Team | Decide if week 3 needs a change. | To do |
 | 3 | Tue 22 Dec | Group time (see section 4) | **Holiday downloads** text | Non-buyers | Sent before Christmas Eve. No texts on 24 or 25 Dec. | To do |
-| 4 | Tue 29 Dec | Group time (see section 4) | **Still here** reminder | Non-buyers who have not replied to anything | Honest, no deadline. No texts on 31 Dec or 1 Jan. | To do |
+| 4 | Sun 3 Jan | Group time (see section 4) | **Last day** message | Non-buyers who have not replied to anything | Honest, no deadline. Says this is our last text about the bundle. No texts on 31 Dec or 1 Jan. | To do |
 | 4 | Mon 4 Jan | n/a | Final count and short report | Team | Save results in this folder. | To do |
 
 **Group time** means the best time for that group in section 4. Anyone without a tag gets the budget-caller time (10 am to 12 pm). All sends stay inside 9 am to 9 pm and start by 8:30 pm.
@@ -149,7 +149,7 @@ All drafts below are 160 characters or fewer if `[X GB]` and `[price]` are each 
 | 7 | Week 2, gamers | Gamers | 2 | Nice | Chirpnet: Got a big download waiting? The Night Owl Bundle gives you [X GB] from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 151 |
 | 8 | Week 2, budget-callers | Budget-callers | 2 | Nice | Chirpnet: Save your daytime data. Use the Night Owl Bundle for big downloads from midnight to 7 am, [price]. Reply OWL to add it. Reply STOP to opt out. | 150 |
 | 9 | Holiday downloads | All | 3 | Must | Chirpnet: New apps or games for the holidays? Get them from midnight to 7 am with the Night Owl Bundle, [price]. Reply OWL to add it. Reply STOP to opt out. | 155 |
-| 10 | Still here | All | 4 | Must | Chirpnet: The Night Owl Bundle is still here if you want it. [X GB] from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 143 |
+| 10 | Last day | All | 4 | Must | Chirpnet: This is our last text about the Night Owl Bundle. [X GB] from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 145 |
 | 11 | "Done" confirmation | Buyers | 1 to 4 | Must | Chirpnet: Done. Your Night Owl Bundle is added. Use it from midnight to 7 am. Questions? Reply HELP. Reply STOP to opt out. | 123 |
 | 12 | HELP reply | Anyone | 1 to 4 | Must | Short answer with price, hours, how long it lasts and how to get help. Write once the facts are in. | n/a |
 | 13 | Not enough credit | Anyone | 1 to 4 | Must | Tells them the bundle was not added and how to top up. Write once we know how OWL charges. | n/a |
