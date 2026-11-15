@@ -117,6 +117,7 @@ Week 0 is set-up, before the launch.
 | 0 | 16 Nov to 27 Nov | n/a | Tag every subscriber as student, gamer or budget-caller | n/a | Anyone without a tag gets the general text. | To do |
 | 0 | 30 Nov to 4 Dec | n/a | Set up OWL, HELP and STOP replies; build the 9 am to 9 pm block | n/a | Test end to end on the practice server. | To do |
 | 0 | 30 Nov to 4 Dec | n/a | Pick a holdout group of 1,000 people who get no texts | n/a | So we can tell how many sign-ups the texts caused. Optional. | To do |
+| 0 | Thu 3 Dec | Group time (see section 4) | **Teaser** text | Everyone | No price yet, just says something new starts 7 Dec. Needs the launch date confirmed. | To do |
 | 1 | Mon 7 Dec | 4 pm to 6 pm, one time for everyone in the test | **Launch test**: two versions of the launch text, 1,000 people each | 2,000, mixed groups (random split) | Same time for both versions so the test is fair. Pick the winner by reply rate on Tuesday. | To do |
 | 1 | Tue 8 to Wed 9 Dec | Group time (see section 4) | **Launch text** (winner, one version per group) | Everyone else | Split over two days to spread the load on support. | To do |
 | 1 | Ongoing | Straight away from 9 am to 9 pm; held until 9 am if they reply at night | **"Done" text** after each OWL reply | Buyers | Held until 9 am if they reply at night. Waiting on the night-reply decision in section 10. | To do |
@@ -140,6 +141,7 @@ All drafts below are 160 characters or fewer if `[X GB]` and `[price]` are each 
 
 | # | Text | Group | Week | Priority | Draft | Chars |
 |---|---|---|---|---|---|---|
+| 0 | Teaser | All | 0 | Must | Chirpnet: Up late? Something new for night owls starts 7 Dec. Cheap data from midnight to 7 am. Watch this space. Reply STOP to opt out. | 136 |
 | 1 | Launch, version A | All / no tag | 1 | Must | Chirpnet: Up late? Meet the Night Owl Bundle: [X GB] of data from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 136 |
 | 2 | Launch, students | Students | 1 | Must | Chirpnet: Studying late? The Night Owl Bundle gives you [X GB] of data from midnight to 7 am for [price]. Reply OWL to add it. Reply STOP to opt out. | 146 |
 | 3 | Launch, gamers | Gamers | 1 | Must | Chirpnet: Big game update? Get it after midnight with the Night Owl Bundle: [X GB], midnight to 7 am, [price]. Reply OWL to add it. Reply STOP to opt out. | 151 |
